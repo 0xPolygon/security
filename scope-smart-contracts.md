@@ -1,5 +1,11 @@
 # Smart Contracts in Scope
 
+## 📜 Changelog
+- 2025/10/06 - Initial Version (Draft)
+
+
+## 📄 Table of Assets
+
 | Name                                            | Network  | Address                                    | GitHub                                     |
 | ----------------------------------------------- | -------- | ------------------------------------------ | ------------------------------------------ |
 | Plasma Contracts - PriorityQueue                       | Ethereum | 0x61AdDcD534Bdc1721c91740Cf711dBEcE936053e | https://github.com/0xPolygon/security |
