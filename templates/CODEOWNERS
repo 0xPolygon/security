@@ -1,0 +1,27 @@
+# ============================================================================
+# CODEOWNERS — Polygon Labs Base Template
+# ============================================================================
+# PLACEMENT: This file must live in ONE of these locations (in priority order):
+#   1. .github/CODEOWNERS   ← recommended (keeps repo root clean)
+#   2. CODEOWNERS            (repo root)
+#   3. docs/CODEOWNERS
+#
+# REQUIREMENTS:
+#   - Branch protection must be enabled on the default branch
+#   - "Require review from Code Owners" must be turned ON in branch rules
+#   - Without both, this file is advisory only and won't block merges
+#
+# Last matching pattern wins. All repos should use this as a starting point
+# and extend with project-specific paths as needed.
+#
+# Teams: adjust handles to match your GitHub org structure.
+#   @0xPolygon/internal-security — Polygon Labs Security Team
+#   @0xPolygon/dev-team      — Engineering / Dev Team
+# ============================================================================
+
+# Default: every PR gets at least one review
+*                                       @0xPolygon/dev-team
+
+# Protect this file — no one silently removes review gates
+CODEOWNERS                              @0xPolygon/internal-security
+.github/CODEOWNERS                      @0xPolygon/internal-security
