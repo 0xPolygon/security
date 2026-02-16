@@ -25,3 +25,6 @@
 # Protect this file — no one silently removes review gates
 CODEOWNERS                              @0xPolygon/internal-security
 .github/CODEOWNERS                      @0xPolygon/internal-security
+
+# Security team owns security-related files
+SECURITY.md                             @0xPolygon/internal-security
