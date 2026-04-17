@@ -8,11 +8,10 @@ https://github.com/0xPolygon/pos-contracts
 
 | Contract | Address |
 |---|---|
-| Plasma Contracts - PriorityQueue | [`0x61AdDcD534Bdc1721c91740Cf711dBEcE936053e`](https://etherscan.io/address/0x61AdDcD534Bdc1721c91740Cf711dBEcE936053e) |
-| Plasma Contracts - GovernanceProxy  | [`0x98165b71cdDea047C0A49413350C40571195fd07`](https://etherscan.io/address/0x98165b71cdDea047C0A49413350C40571195fd07) |
+| Plasma Contracts - GovernanceProxy  | [`0x6e7a5820baD6cebA8Ef5ea69c0C92EbbDAc9CE48`](https://etherscan.io/address/0x6e7a5820baD6cebA8Ef5ea69c0C92EbbDAc9CE48) |
 | Plasma Contracts - Registry | [`0x33a02E6cC863D393d6Bf231B697b82F6e499cA71`](https://etherscan.io/address/0x33a02E6cC863D393d6Bf231B697b82F6e499cA71) |
 | Plasma Contracts - RootChainProxy | [`0x86E4Dc95c7FBdBf52e33D563BbDB00823894C287`](https://etherscan.io/address/0x86E4Dc95c7FBdBf52e33D563BbDB00823894C287) |
-| Plasma Contracts - StakeManager Proxy | [`0x3AD88467E40399dc6Ae10427f8B0842348d9076c`](https://etherscan.io/address/0x3AD88467E40399dc6Ae10427f8B0842348d9076c) |
+| Plasma Contracts - StakeManager Proxy | [`0x5e3Ef299fDDf15eAa0432E6e66473ace8c13D908`](https://etherscan.io/address/0x5e3Ef299fDDf15eAa0432E6e66473ace8c13D908) |
 | Plasma Contracts - ValidatorShare | [`0x7e94d6cAbb20114b22a088d828772645f68CC67B`](https://etherscan.io/address/0x7e94d6cAbb20114b22a088d828772645f68CC67B) |
 | Plasma Contracts - StateSender | [`0x28e4F3a7f651294B9564800b2D01f35189A5bFbE`](https://etherscan.io/address/0x28e4F3a7f651294B9564800b2D01f35189A5bFbE) |
 | Plasma Contracts - DepositManagerProxy | [`0x401F6c983eA34274ec46f84D70b31C151321188b`](https://etherscan.io/address/0x401F6c983eA34274ec46f84D70b31C151321188b) |
