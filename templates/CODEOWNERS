@@ -28,3 +28,5 @@ CODEOWNERS                              @0xPolygon/internal-security
 
 # Security team owns security-related files
 SECURITY.md                             @0xPolygon/internal-security
+
+scope*                                  @0xPolygon/internal-security
