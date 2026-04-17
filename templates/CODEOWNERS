@@ -19,9 +19,6 @@
 #   @0xPolygon/dev-team      — Engineering / Dev Team
 # ============================================================================
 
-# Default: every PR gets at least one review
-*                                       @0xPolygon/dev-team
-
 # Protect this file — no one silently removes review gates
 CODEOWNERS                              @0xPolygon/internal-security
 .github/CODEOWNERS                      @0xPolygon/internal-security
